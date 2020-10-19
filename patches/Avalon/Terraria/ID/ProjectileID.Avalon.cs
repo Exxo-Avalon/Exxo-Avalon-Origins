@@ -37,7 +37,7 @@ namespace Terraria.ID
 		public const int ElementOrb = 986;
 		public const int DarkFlame = 987;
 		public const int VileSpit = 988;
-		public const int StickyDynamiteUnused = 989;
+		public const int StickyDynamiteTwo = 989;
 		public const int BerserkerArrow = 990;
 		public const int ImpactSphere = 991;
 		public const int ImpactBolt = 992;
@@ -123,7 +123,7 @@ namespace Terraria.ID
 		public const int SunCharm = 1072;
 		public const int TourmalineHook = 1073;
 		public const int PeridotHook = 1074;
-		public const int GuardianHammerII = 1075;
+		public const int GuardianHammerTwo = 1075;
 		public const int VirulentPike = 1076;
 		public const int InfectedMist = 1077;
 		public const int YuckyKnife = 1078;
@@ -146,13 +146,13 @@ namespace Terraria.ID
 		public const int MissileBolt = 1095;
 		public const int PhantomKnife = 1096;
 		public const int TrifectalBall = 1097;
-		public const int TrifectalBallII = 1098;
+		public const int TrifectalBallTwo = 1098;
 		public const int Miniaxe = 1099;
 		public const int Minibur = 1100;
 		public const int Minihammer = 1101;
 		public const int InfernoScythe = 1102;
 		public const int JungleFire = 1103;
-		public const int AeonBeamII = 1104;
+		public const int AeonBeamTwo = 1104;
 		public const int DemonSpike = 1105;
 		public const int BloodySpike = 1106;
 		public const int IckySpike = 1107;
@@ -160,24 +160,24 @@ namespace Terraria.ID
 		public const int YellowFlare = 1109;
 		public const int PurpleFlare = 1110;
 		public const int OrangeFlare = 1111;
-		public const int GoldTombstoneI = 1112;
-		public const int GoldTombstoneII = 1113;
-		public const int GoldTombstoneIII = 1114;
-		public const int GoldTombstoneIV = 1115;
-		public const int GoldTombstoneV = 1116;
+		public const int GoldTombstoneOne = 1112;
+		public const int GoldTombstoneTwo = 1113;
+		public const int GoldTombstoneThree = 1114;
+		public const int GoldTombstoneFour = 1115;
+		public const int GoldTombstoneFive = 1116;
 		public const int RhotukaSpinnerBlackHole = 1117;
 		public const int RhotukaSpinnerPoison = 1118;
 		public const int RhotukaSpinnerScrambler = 1119;
 		public const int RhotukaSpinnerTeleport = 1120;
 		public const int RhotukaSpinnerConfuse = 1121;
 		public const int RhotukaSpinnerWeaken = 1122;
-		public const int LightBeamII = 1123;
+		public const int LightBeamTwo = 1123;
 		public const int ShellHammerProj = 1124;
 		public const int Fail = 1125;
-		public const int SmogscreenI = 1126;
-		public const int SmogscreenII = 1127;
-		public const int SmogscreenIII = 1128;
-		public const int SmogscreenIV = 1129;
+		public const int SmogscreenOne = 1126;
+		public const int SmogscreenTwo = 1127;
+		public const int SmogscreenThree = 1128;
+		public const int SmogscreenFour = 1129;
 		public const int ExplosiveToggle = 1130;
 		public const int SoulEdgeFail = 1131;
 		public const int SteelLaser = 1132;
@@ -193,5 +193,5 @@ namespace Terraria.ID
 		public const int Ghostflame = 1142;
 		public const int HallowSpit = 1143;
 		public const int Count = 1144;
-    }
+	}
 }

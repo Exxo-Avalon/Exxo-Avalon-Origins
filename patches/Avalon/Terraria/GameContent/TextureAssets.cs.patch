@@ -45,3 +45,12 @@
  		public static Asset<Texture2D>[] Background = new Asset<Texture2D>[298];
  		public static Asset<Texture2D>[] Cloud = new Asset<Texture2D>[37];
  		public static Asset<Texture2D>[] Star = new Asset<Texture2D>[4];
+@@ -215,7 +_,7 @@
+ 		public static Asset<Texture2D> Flame;
+ 		public static Asset<Texture2D>[] TreeTop = new Asset<Texture2D>[31];
+ 		public static Asset<Texture2D>[] TreeBranch = new Asset<Texture2D>[31];
+-		public static Asset<Texture2D>[] Wood = new Asset<Texture2D>[7];
++		public static Asset<Texture2D>[] Wood = new Asset<Texture2D>[10];
+ 		public static Asset<Texture2D> ShroomCap;
+ 		public static Asset<Texture2D> InventoryBack;
+ 		public static Asset<Texture2D> InventoryBack2;

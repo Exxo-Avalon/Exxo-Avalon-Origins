@@ -212,7 +212,7 @@
  			1,
  			2,
  			2,
-@@ -1850,7 +_,119 @@
+@@ -1850,7 +_,120 @@
  			3,
  			4,
  			23,
@@ -329,7 +329,8 @@
 +			16,
 +			8,
 +			4,
-+			1
++			1,
++			0
  		};
  		public static Dictionary<int, byte> npcLifeBytes = new Dictionary<int, byte>();
  		public static bool mouseExit;
